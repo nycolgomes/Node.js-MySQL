@@ -22,3 +22,6 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) valu
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Bike Helmet', 'Toys', '50', '12'); 
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Cell Phone Case', 'Phones', '15', '42');
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Soap', 'Household', '1', '1200'); 
+
+
+SELECT * FROM products;
